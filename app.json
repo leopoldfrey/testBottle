@@ -1,0 +1,10 @@
+{
+  "name": "Python Bottle Test",
+  "description": "",
+  "image": "heroku/python",
+  "repository": "https://github.com/leopoldfrey/testBottle",
+  "keywords": ["python", "" ],
+  "addons": [ "" ],
+  "env": {},
+  "environments": {}
+}
