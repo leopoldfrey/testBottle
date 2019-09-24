@@ -1,3 +1,4 @@
+import os
 from bottle import template, static_file, route, run
 
 @route('/')
