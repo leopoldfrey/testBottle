@@ -12,4 +12,4 @@ def server_static(filename):
 def button(but):
 	print('> button :',but)
 
-run(host='localhost', port=8080, debug=True)	
+run(host='https://bottlepythontester.herokuapp.com/')	
