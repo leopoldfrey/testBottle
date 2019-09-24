@@ -12,4 +12,5 @@ def server_static(filename):
 def button(but):
 	print('> button :',but)
 
-run(host='https://bottlepythontester.herokuapp.com/')	
+port = int(os.environ.get("PORT", 17995))
+run(host='0.0.0.0', port=port)	
